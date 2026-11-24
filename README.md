@@ -148,7 +148,7 @@ Managing Linux environments, Docker containers, cloud deployments, and self-host
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🎾 Tennis Fusion</h3>
+<h3 align="center"><a href="https://github.com/Ahmed-Sarhan71/Tennis-Fusion-E-Commerce-Online-Store">🎾 Tennis Fusion</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -158,7 +158,7 @@ Managing Linux environments, Docker containers, cloud deployments, and self-host
 A full-stack tennis application built with ASP.NET Core and Angular, featuring authentication, database integration, Stripe test checkout, Redis caching, and real-time communication using SignalR.
 </td>
 <td width="50%">
-<h3 align="center">🍬 Candy Calorie Counter</h3>
+<h3 align="center"><a href="https://github.com/Ahmed-Sarhan71/Candy-Calorie-Counter-using-YOLO-11">🍬 Candy Calorie Counter</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/YOLO11-00FFFF?style=flat-square&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -178,10 +178,10 @@ A computer-vision application that detects candies using YOLO11 and estimates ca
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/RAG-4A154B?style=flat-square" />
 </p>
-A fully local RAG application for uploading PDF documents and asking questions about their contents. Uses FastAPI for document ingestion and query handling, Streamlit for the chat interface, Qdrant for vector search, and Ollama for local embeddings and LLM inference. Supports filtering sources to retrieve information from selected documents while keeping the entire workflow offline.
+A fully local RAG application for uploading PDF documents and asking questions about their contents. Uses FastAPI for document ingestion and query handling, Streamlit for the interactive chat interface, Qdrant for vector search, and Ollama for local embeddings and LLM inference. Supports filtering sources to retrieve information from selected documents while keeping the entire workflow offline.
 </td>
 <td width="50%">
-<h3 align="center">🩺 Wound Infection Classification</h3>
+<h3 align="center"><a href="https://github.com/Ahmed-Sarhan71/DFU-Ensemble-Classifier">🩺 Wound Infection Classification</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -192,16 +192,7 @@ A deep-learning project for wound assessment, exploring infection and moisture c
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">🌱 IoT Smart Farm</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT-0078D4?style=flat-square" />
-</p>
-An IoT-based smart farming system using ESP32, environmental sensors, and automated irrigation to monitor soil moisture, temperature, and humidity.
-</td>
-<td width="50%">
-<h3 align="center">🔥 Autonomous Firefighting Robot</h3>
+<h3 align="center"><a href="https://github.com/Ahmed-Sarhan71/Pyro-Protector_a_FireFighting-Robot">🔥 Autonomous Firefighting Robot</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
@@ -209,10 +200,8 @@ An IoT-based smart farming system using ESP32, environmental sensors, and automa
 </p>
 An autonomous robotics project featuring flame detection, obstacle avoidance, a water-pump mechanism, and remote monitoring through ThingSpeak.
 </td>
-</tr>
-<tr>
 <td width="50%">
-<h3 align="center">☁️ Nextcloud Home Server</h3>
+<h3 align="center"><a href="https://github.com/Ahmed-Sarhan71/nextcloud">☁️ Nextcloud Home Server</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
@@ -221,8 +210,10 @@ An autonomous robotics project featuring flame detection, obstacle avoidance, a 
 </p>
 A self-hosted cloud storage solution running on an older HP Pavilion with AntiX Linux, Apache, PHP, MariaDB, and Tailscale for secure remote access.
 </td>
+</tr>
+<tr>
 <td width="50%">
-<h3 align="center">🌾 Edge-AI Pest Monitoring</h3>
+<h3 align="center"><a href="https://github.com/Ahmed-Sarhan71/Pest-Monitor-V2">🌾 Edge-AI Pest Monitoring</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
