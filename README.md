@@ -170,14 +170,15 @@ A computer-vision application that detects candies using YOLO11 and estimates ca
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">🧠 Subway AI Chatbot & Research Assistant</h3>
+<h3 align="center"><a href="https://github.com/Ahmed-Sarhan71/AI-Research-Assistant">🧠 AI Research Assistant</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/RAG-4A154B?style=flat-square" />
 </p>
-AI-powered chatbot and research applications combining data collection, web scraping, retrieval, and natural-language querying to make information easier to access.
+A fully local RAG application for uploading PDF documents and asking questions about their contents. Uses FastAPI for document ingestion and query handling, Streamlit for the chat interface, Qdrant for vector search, and Ollama for local embeddings and LLM inference. Supports filtering sources to retrieve information from selected documents while keeping the entire workflow offline.
 </td>
 <td width="50%">
 <h3 align="center">🩺 Wound Infection Classification</h3>
